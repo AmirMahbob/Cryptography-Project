@@ -39,8 +39,9 @@ This project is ideal for learning cryptography concepts and having a handy tool
 ---
 
 ## Project Screenshots
-![Screenshot](./encryption_screenshot.png)  
-*Screenshot of the project GUI when selecting an algorithm*
+<p align="center">
+  <img src="https://github.com/AmirMahbob/Cryptography-Project/blob/main/picture.png?raw=true" alt="Cryptography GUI" width="400"/>
+</p>
 
 ---
 
